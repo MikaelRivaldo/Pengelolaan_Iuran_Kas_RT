@@ -1,5 +1,7 @@
 # Anggota Kelompok
 
+# Kelompok 13 (Ganjil) 
+
 | NAMA  | NIM | 
 | ------------- | ------------- | 
 | Muhammad Dzaki Abbiyu | 312210381  |
