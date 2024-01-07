@@ -113,3 +113,16 @@ ENGINE = InnoDB
 3. **Bootstrap**
 
    Untuk membuat tampilan halaman web, kami menggunakan Bootstrap. Bootstrap adalah framework CSS yang populer yang dapat digunakan untuk membuat tampilan halaman web yang responsif. Bootstrap memiliki fitur-fitur yang memudahkan pengembang untuk membuat tampilan halaman web yang menarik dan mudah digunakan.
+
+## **_Demo:_**
+
+<img src=https://download.logo.wine/logo/YouTube/YouTube-Logo.wine.png width="130px">
+
+- [Dokumentasi Youtube]()
+
+<img src="images/pdf.png" width="130px">
+
+- [Laporan]()
+
+
+- [Web Hosting]()
