@@ -97,3 +97,17 @@ ENGINE = InnoDB
 ```
 
 ---
+
+## TOOLS YANG DIGUNAKAN
+
+1. **XAMPP**
+
+   Dalam pembuatan sistem iuran kas RT ini, kami menggunakan XAMPP sebagai lingkungan pengembangan lokal. XAMPP terdiri dari Apache, MySQL, dan PHP. Apache adalah web server yang digunakan untuk menampilkan halaman web. MySQL adalah database server yang digunakan untuk menyimpan data. PHP adalah bahasa pemrograman server-side yang digunakan untuk membuat halaman web interaktif.
+
+2. **VSCode**
+
+   Untuk editor kode, kami menggunakan Visual Studio Code (VSCode). VSCode adalah editor kode sumber yang populer yang dapat digunakan untuk berbagai bahasa pemrograman. VSCode memiliki fitur-fitur yang memudahkan pengembang untuk menulis, mengedit, dan menjalankan kode.
+
+3. **Bootstrap**
+
+   Untuk membuat tampilan halaman web, kami menggunakan Bootstrap. Bootstrap adalah framework CSS yang populer yang dapat digunakan untuk membuat tampilan halaman web yang responsif. Bootstrap memiliki fitur-fitur yang memudahkan pengembang untuk membuat tampilan halaman web yang menarik dan mudah digunakan.
