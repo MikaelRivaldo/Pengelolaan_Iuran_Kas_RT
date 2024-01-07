@@ -128,5 +128,7 @@ ENGINE = InnoDB
 
 <img src=https://res.cloudinary.com/practicaldev/image/fetch/s--ux15-5qy--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://dev-to-uploads.s3.amazonaws.com/i/a12tj8n6facp0kt0xb0n.jpeg width="120px">
 
+- [Laporan](https://drive.google.com/file/d/1YV1iuozh-MXM3i06TF9NUDLHI__pqfRH/view?usp=sharing)
+
 
 - [Web Hosting]()
